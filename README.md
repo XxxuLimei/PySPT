@@ -11,10 +11,10 @@ Signal_Processing_Toolbox_Python 提供了一些函数和 App，用来分析、�
 - Signal Processing Toolbox 快速入门  
 Signal Processing Toolbox 基础知识学习
 
-- [信号分析和可视化](./Content/信号生成和预处理.md)  
+- [信号分析和可视化](./Content/Signal_Processing_Toolbox快速入门.md)  
 使用**信号分析器**来可视化、预处理和探查信号
 
-- [信号生成和预处理](./Content/Signal_Processing_Toolbox快速入门.md)  
+- [信号生成和预处理](./Content/信号生成和预处理.md)  
 对信号进行创建、重采样、平滑、去噪和去趋势处理
 
 - 测量和特征提取  
