@@ -1,5 +1,8 @@
 # Signal_Processing_Toolbox_Python——执行信号处理和分析
 [![Python](https://img.shields.io/badge/python-3.9-blue)](https://docs.python.org/zh-cn/3.9/)
+[![Numpy](https://img.shields.io/badge/numpy-1.22.0-brightgreen)](https://numpy.org/doc/stable/)
+[![Scipy](https://img.shields.io/badge/scipy-1.9.0-brightgreen)](https://docs.scipy.org/doc/)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-brightgreen)](https://matplotlib.org/3.5.1/index.html)
 
 Signal_Processing_Toolbox_Python 提供了一些函数和 App，用来分析、预处理及提取均匀和非均匀采样信号的特征。该工具箱包含可用于滤波器设计和分析、重采样、平滑处理、去趋势和功率谱估计的工具。该工具箱还提供了提取特征（如变化点和包络）、寻找波峰和信号模式、量化信号相似性以及执行 SNR 和失真等测量的功能。您还可以对振动信号执行模态和阶次分析。
 
