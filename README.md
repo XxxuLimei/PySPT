@@ -8,7 +8,7 @@ PySPT 提供了一些函数和 App，用来分析、预处理及提取均匀和�
 
 使用信号分析器，您可以：在时域、频域和时频域同时预处理和分析多个信号，而无需编写代码；探查长信号；以及提取感兴趣的区域。通过滤波器设计工具，您可以从多种算法和响应中进行选择来设计和分析数字滤波器。
 
-> 对应的Matlab案例 : [SignalProcessing Toolbox--MathWorks](https://ww2.mathworks.cn/help/signal/index.html?s_tid=CRUX_lftnav)  
+> 对应的Matlab案例 : [Signal Processing Toolbox--MathWorks](https://ww2.mathworks.cn/help/signal/index.html?s_tid=CRUX_lftnav)  
 
 ---
 ### 目录  
