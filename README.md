@@ -12,10 +12,10 @@ PySPT 提供了一些函数和 App，用来分析、预处理及提取均匀和�
 
 ---
 ### 目录  
-- PySPT 快速入门  
+- [PySPT 快速入门](./Content/PySPT快速入门.md)  
 PySPT 基础知识学习
 
-- [信号分析和可视化](./Content/Signal_Processing_Toolbox快速入门.md)  
+- 信号分析和可视化  
 使用**Signal Analyzer**来可视化、预处理和探查信号
 
 - [信号生成和预处理](./Content/信号生成和预处理.md)  
