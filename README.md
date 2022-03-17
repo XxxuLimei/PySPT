@@ -1,10 +1,10 @@
-# Signal_Processing_Toolbox_Python——执行信号处理和分析
+# PySPT——执行信号处理和分析
 [![Python](https://img.shields.io/badge/python-3.9-blue)](https://docs.python.org/zh-cn/3.9/)
 [![Numpy](https://img.shields.io/badge/numpy-1.22.0-brightgreen)](https://numpy.org/doc/stable/)
 [![Scipy](https://img.shields.io/badge/scipy-1.9.0-brightgreen)](https://docs.scipy.org/doc/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-brightgreen)](https://matplotlib.org/3.5.1/index.html)
 
-Signal_Processing_Toolbox_Python 提供了一些函数和 App，用来分析、预处理及提取均匀和非均匀采样信号的特征。该工具箱包含可用于滤波器设计和分析、重采样、平滑处理、去趋势和功率谱估计的工具。该工具箱还提供了提取特征（如变化点和包络）、寻找波峰和信号模式、量化信号相似性以及执行 SNR 和失真等测量的功能。您还可以对振动信号执行模态和阶次分析。
+PySPT 提供了一些函数和 App，用来分析、预处理及提取均匀和非均匀采样信号的特征。该工具箱包含可用于滤波器设计和分析、重采样、平滑处理、去趋势和功率谱估计的工具。该工具箱还提供了提取特征（如变化点和包络）、寻找波峰和信号模式、量化信号相似性以及执行 SNR 和失真等测量的功能。您还可以对振动信号执行模态和阶次分析。
 
 使用信号分析器，您可以：在时域、频域和时频域同时预处理和分析多个信号，而无需编写代码；探查长信号；以及提取感兴趣的区域。通过滤波器设计工具，您可以从多种算法和响应中进行选择来设计和分析数字滤波器。
 
@@ -12,8 +12,8 @@ Signal_Processing_Toolbox_Python 提供了一些函数和 App，用来分析、�
 
 ---
 ### 目录  
-- Signal_Processing_Toolbox_Python 快速入门  
-Signal_Processing_Toolbox_Python 基础知识学习
+- PySPT 快速入门  
+PySPT 基础知识学习
 
 - [信号分析和可视化](./Content/Signal_Processing_Toolbox快速入门.md)  
 使用**Signal Analyzer**来可视化、预处理和探查信号
