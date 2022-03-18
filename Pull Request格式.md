@@ -1,4 +1,4 @@
-### 代码格式  
+### 代码格式 :computer:  
 1. 请提交.ipynb格式的文件；  
 2. 第一个代码块引用需要的库，引用结束后空一行与下面的代码隔开；  
 3. 绘图时请使用`fig,ax = plt.subplots()`的形式，可以参考下面的绘图方式：  
@@ -14,7 +14,7 @@ ax.set_ylim(-9,-7.2);ax.set_xlim(0,2)
 4. 保存图片时，采用代码`fig.savefig('./图片名.png',dpi=500)`  
 ---
 
-### 提交文件夹格式
+### 提交文件夹格式 :open_file_folder:
 1. 请将生成的.ipynb文件命名为案例名称，采用中文名称；
 2. 将生成的图片与该.ipynb文件一起放在一个文件夹里，该文件夹命名与.ipynb相同；
 3. 请将多个同一主题的案例（每一个分别汇总成一个文件夹）放在一个文件夹下，文件夹命名为主题名称，采用英文名称；
@@ -23,7 +23,7 @@ ax.set_ylim(-9,-7.2);ax.set_xlim(0,2)
 <img width="504" alt="1647568410(1)" src="https://user-images.githubusercontent.com/96283702/158922419-b4eb04a6-50b7-42b7-988b-11f3d7a6549b.png">  
 
 ---  
-### Pull Request方法
+### Pull Request方法 :speech_balloon:
 1. 首先注册一个github账号；
 2. 在[PySPT仓库首页](https://github.com/XxxuLimei/PySPT)点击`fork`，将仓库fork到自己的github首页；
 3. 来到自己的github下的PySPT仓库，点击content文件夹，选择`Add file`下的`Upload files`，把文件夹拖拽到中间，然后等待文件上传；<img width="206" alt="1647568718(1)" src="https://user-images.githubusercontent.com/96283702/158922924-9af77c85-4894-458f-8234-4416b1c7d85d.png">  
