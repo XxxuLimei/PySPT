@@ -32,5 +32,5 @@ ax.set_ylim(-9,-7.2);ax.set_xlim(0,2)
 6. 等待仓库管理员审核之后，您的贡献就可以在 [PySPT仓库](https://github.com/XxxuLimei/PySPT) 中被看到了，您也就成为了仓库的Contributor.  
 ---
 
-## Please feel free to Pull Request！
+## Please feel free to Pull Request！:smile:
 
