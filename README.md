@@ -5,6 +5,7 @@
 [![Numpy](https://img.shields.io/badge/numpy-1.22.0-brightgreen)](https://numpy.org/doc/stable/)
 [![Scipy](https://img.shields.io/badge/scipy-1.9.0-brightgreen)](https://docs.scipy.org/doc/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-brightgreen)](https://matplotlib.org/3.5.1/index.html)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/XxxuLimei/PySPT/main)
 
 </div>
 
