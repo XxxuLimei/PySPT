@@ -2,8 +2,8 @@
   
 # PySPT——执行信号处理和分析
 [![Python](https://img.shields.io/badge/python-3.9-blue)](https://docs.python.org/zh-cn/3.9/)
-[![Numpy](https://img.shields.io/badge/numpy-1.22.0-brightgreen)](https://numpy.org/doc/stable/)
-[![Scipy](https://img.shields.io/badge/scipy-1.9.0-brightgreen)](https://docs.scipy.org/doc/)
+[![Numpy](https://img.shields.io/badge/numpy-1.21.5-brightgreen)](https://numpy.org/doc/stable/)
+[![Scipy](https://img.shields.io/badge/scipy-1.7.3-brightgreen)](https://docs.scipy.org/doc/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-brightgreen)](https://matplotlib.org/3.5.1/index.html)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/XxxuLimei/PySPT/main)
 
