@@ -50,15 +50,3 @@ FIR 和 IIR、单速率和多速率滤波器设计、分析和实现
 - 代码生成和 GPU 支持  
 生成可移植的 C/C++/MEX 函数，并使用 GPU 来部署或加速处理
 ---
-
-### 贡献者 ✨  
-
-感谢以下的贡献者 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/XxxuLimei"><img src="https://github.com/identicons/XxxuLimei.png" width="100px;" alt=""/><br /><sub><b>XxxuLimei</b></sub></a><br />
-    <td align="center"><a href="https://github.com/Chenying2000"><img src="https://github.com/identicons/Chenying2000.png" width="100px;" alt=""/><br /><sub><b>Chenying2000</b></sub></a><br /><a href="https://github.com/all-contributors/cli/commits?author=Chenying2000" title="Code">
-    <td align="center"><a href="https://github.com/Dengqii"><img src="https://github.com/identicons/Dengqii.png" width="100px;" alt=""/><br /><sub><b>Dengqii</b></sub></a><br /><a href="https://github.com/all-contributors/cli/commits?author=Dengqii" title="Code">
